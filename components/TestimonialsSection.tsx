@@ -104,7 +104,7 @@ export default function TestimonialsSection() {
               </div>
 
               {/* Text Section */}
-              <div className="mt-3 text-left ml-4">
+              <div className="mt-3 mx-3 text-left ml-4">
                 <h3 className="text-sm sm:text-base font-bold text-black mb-0.5 drop-shadow-lg">{testimonial.name}</h3>
                 <p className="text-black text-xs sm:text-sm drop-shadow-lg">{testimonial.position}</p>
 
