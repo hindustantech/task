@@ -67,19 +67,19 @@ export default function Footer() {
               <span className="text-emerald-500">
                 <MapPin />
               </span>
-              <span>Envato, Level 13, 2 Elizabeth Victoria 3000 India</span>
+              <span>Siwan Bihar, India</span>
             </li>
             <li className="flex items-center space-x-3">
               <span className="text-emerald-500">
                 <Phone />
               </span>
-              <span>+91 861 944 1176</span>
+              <span>+91 6202400672</span>
             </li>
             <li className="flex items-center space-x-3">
               <span className="text-emerald-500">
                 <FaEnvelope />
               </span>
-              <span>ezyoga@gmail.com</span>
+              <span>kumarrupees507@gmail.com</span>
             </li>
           </ul>
         </div>
