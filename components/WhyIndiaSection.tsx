@@ -18,7 +18,7 @@ export default function WhyIndiaSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div>
-            <h2 className="text-[34px]  font-bold leading-tight mb-8">
+            <h2 className=" text-[20px] md:text-[34px]  font-bold leading-tight mb-8">
               Why Hire Software Developers
               <br /> In India?
             </h2>

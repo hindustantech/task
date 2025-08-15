@@ -47,7 +47,7 @@ export default function WhyHireSection() {
   ];
   return (
     <section
-      className="relative py-20 overflow-hidden"
+      className="relative py-10 overflow-hidden"
       style={{
         backgroundImage: `radial-gradient(circle at 10% 70%, rgba(47, 201, 128, 0.2) 0%, transparent 30%),
         radial-gradient(circle at 90% 30%, rgba(255, 133, 120, 0.2) 0%, transparent 30%)`,
@@ -63,7 +63,7 @@ export default function WhyHireSection() {
 
       <div className="relative max-w-7xl mx-auto px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-black">Why Hire Developers From Our Name</h2>
+          <h2 className=" text-2xl md:text-4xl font-bold text-black">Why Hire Developers From Our Name</h2>
           <p className="text-black max-w-2xl mx-auto mt-3">
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
             text ever since
@@ -153,7 +153,7 @@ export default function WhyHireSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Heading */}
         <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold text-[#243746]">Our Diverse Technology Competency</h2>
+          <h2 className="text-2xl md:text-4xl font-bold text-[#243746]">Our Diverse Technology Competency</h2>
           <p className="text-gray-600 mt-2 max-w-2xl mx-auto text-sm">
             Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry. Lorem Ipsum Has Been The Industry's Standard Dummy
             Text Ever Since

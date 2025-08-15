@@ -155,22 +155,22 @@ export default function HeroSection() {
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">Full Name</label>
-                    <Input placeholder="Enter You Name" className="h-12" />
+                    <Input placeholder="Enter You Name" className="h-12 text-sm" />
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">Email Address</label>
-                    <Input type="email" placeholder="Enter You Email" className="h-12" />
+                    <Input type="email" placeholder="Enter You Email" className="h-12 text-sm" />
                   </div>
                 </div>
 
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">Phone No</label>
-                    <Input placeholder="Enter You Number" className="h-12" />
+                    <Input placeholder="Enter You Number" className="h-12 text-sm" />
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">Country</label>
-                    <Input placeholder="Enter You Country" className="h-12" />
+                    <Input placeholder="Enter You Country" className="h-12 text-sm" />
                   </div>
                 </div>
 

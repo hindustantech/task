@@ -22,7 +22,7 @@ export default function TrustedCompaniesSection() {
 
           {/* Right - Content */}
           <div>
-            <h2 className="text-[32px] font-bold text-gray-900 leading-snug mb-6">
+            <h2 className="text-xl md:text-[32px] font-bold text-gray-900 leading-snug mb-6">
               Top Companies Trust ValueCoders For Hiring Software Developers
             </h2>
             <p className="text-gray-600 text-base leading-relaxed mb-10">

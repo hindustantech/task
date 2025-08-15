@@ -100,7 +100,7 @@ export default function UserGuideSection() {
     <section className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="font-heading font-bold text-4xl text-gray-900 mb-4 leading-tight">
+          <h2 className="font-heading font-bold text-2xl md:text-4xl text-gray-900 mb-4 leading-tight">
             User Guide To Hire Dedicated Software Developers
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
@@ -142,7 +142,7 @@ export default function UserGuideSection() {
           </div>
 
           <div className="bg-white p-8 shadow-sm">
-            <h3 className="font-heading font-bold text-2xl text-gray-900 mb-4">{tabContent[activeTab].title}</h3>
+            <h3 className="font-heading font-bold text-xl md:text-2xl text-gray-900 mb-4">{tabContent[activeTab].title}</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">{tabContent[activeTab].description}</p>
             <div className="space-y-4">
               <div className="grid grid-cols-2 gap-4">
